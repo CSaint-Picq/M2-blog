@@ -1,0 +1,189 @@
+.header {
+    position: relative;
+    height: 270px;
+    background-image: url("https://images.pexels.com/photos/1533720/pexels-photo-1533720.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding : 4px
+}  
+
+h1 {
+font-family : Tilt Neon;
+text-align : center;
+color : rgb(4, 87, 160);
+padding : 35px;
+margin-bottom : 2px;
+}  
+
+#jellyfish {
+position : absolute;
+top : 20px;
+left : 50px;
+float : left;
+clear : both;
+}
+
+#anemone {
+position : absolute;
+top : 20px;
+left : 200px;
+float : left;
+clear : both;
+}
+
+#whale {
+position : absolute;
+top : 20px;
+left : 900px;
+float : left;
+clear : both;
+}
+
+#fish {
+position : absolute;
+top : 20px;
+left : 1090px;
+float : left;
+clear : both;
+}
+
+h2 {
+font-family : Tilt Neon;
+text-align : center;
+} 
+
+h3 {
+font-family : Tilt Neon;
+text-align : center;
+} 
+
+p{
+font-family : 'Montserrat';
+text-align : center;
+}
+
+body{
+background-color : rgb(255,249,225);
+}
+
+#description {
+font-family : Tilt Neon;
+text-align : middle;
+color : rgb(4, 87, 160);
+padding : 2px;
+}
+
+#about_me {
+color : white ;
+background-color : rgb(4, 87, 160);
+padding : 4px;
+margin-top : 6px;
+margin-bottom : 6px;
+}
+
+ol {
+font-family : 'Montserrat';
+}
+
+#pb{font-family : Tilt Neon;
+text-align : center;
+color : rgb(4, 87, 160);
+}
+
+.styled-table {
+border-collapse: collapse;
+margin: 25px 0;
+font-size: 0.9em;
+font-family: sans-serif;
+min-width: 400px;
+box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+background-color: rgb(4, 87, 160);
+color: #ffffff;
+text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+text-align: center ;
+padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+border-bottom: 2px solid rgb(4, 87, 160);
+}
+
+.styled-table tbody tr.active-row {
+font-weight: bold;
+color: #009879;
+}
+
+
+#Ecology {
+color : white ;
+background-color : rgb(4, 87, 160);
+padding : 4px;
+margin-top : 6px;
+margin-bottom : 6px;
+float: right;
+width: 50%;
+margin-left: 20px;
+}
+
+.ecology {
+color : rgb(199, 228,255);
+}
+
+#ecology_picture {
+float : left;
+margin-right : 6px;
+margin-bottom : 6px;
+clear : both;
+}
+
+
+#ecotox-invite {
+background-image : url("https://images.pexels.com/photos/5412/water-blue-ocean.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+}
+
+#invite-pic {
+width : 100px;
+margin-left : 1177px;
+position : relative ;
+top : -85px;
+}
+
+#invite-title {
+ color : white ;
+ padding : 10px;
+ font-family: 'Archivo Black';
+ font-size: 22px;
+ text-align : left;
+}
+
+#classy-invite {
+font-family: 'Cedarville Cursive';
+font-size: 32px;
+color : white;
+position : relative ;
+top : -60px;
+}
+
+.invite {
+color : white ;
+text-align : left;
+padding : 10px;
+position : relative ;
+top : -30px;
+}
